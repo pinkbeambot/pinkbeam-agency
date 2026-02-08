@@ -1,0 +1,10 @@
+{
+  "/api/send-brief/route": "app/api/send-brief/route.js",
+  "/dashboard/briefs/[id]/page": "app/dashboard/briefs/[id]/page.js",
+  "/dashboard/briefs/page": "app/dashboard/briefs/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/sarah/page": "app/dashboard/sarah/page.js",
+  "/employees/researcher/page": "app/employees/researcher/page.js",
+  "/employees/sdr/page": "app/employees/sdr/page.js",
+  "/page": "app/page.js"
+}
